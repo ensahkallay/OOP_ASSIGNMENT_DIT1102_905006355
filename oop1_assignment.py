@@ -1,20 +1,3 @@
-"""
-OOP1 ASSIGNMENT
-Digital Exam and Results Management System
-Domain: Education
-
-This project demonstrates:
-- Classes and objects
-- Attributes and instance methods
-- A class method (@classmethod)
-- A static method (@staticmethod)
-- Object interaction
-- A list as the program's main data structure
-
-Privacy note: The program uses data entered locally by the operator.
-Do not enter sensitive personal information. No student data is uploaded.
-"""
-
 class Student:
     """Represents one student and the student's examination result."""
 
